@@ -8,6 +8,6 @@
   },
   "Comentario": {
     "cuerpo": "string",
-    "post": "Post"
+    "serie": "Serie"
   }
 }
