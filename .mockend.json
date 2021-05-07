@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Serie": {
     "titulo": "string",
     "vistas": "int",
     "publicado": "boolean",
